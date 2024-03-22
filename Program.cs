@@ -7,11 +7,11 @@ Console.WriteLine("Other responses may lead to undesired results.");
 string toPlayOrNotToPlay = Console.ReadLine();
 if (negatives.Contains(toPlayOrNotToPlay)) 
 {
-
+    Console.WriteLine("Bye then!");
 }
 else if (affirmatives.Contains(toPlayOrNotToPlay))
 {
-
+    Console.WriteLine("Good on you!");
 }
 else {
     Console.WriteLine("Not the type to answer a simple yes or no, eh? Or perhaps you don't like making choices, in which case this may not be the game for you. No hard feelings! You take care of yourself.");
