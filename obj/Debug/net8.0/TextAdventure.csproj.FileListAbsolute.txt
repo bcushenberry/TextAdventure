@@ -7,9 +7,9 @@ D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.GeneratedMSBuildEdito
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.AssemblyInfoInputs.cache
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.AssemblyInfo.cs
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.csproj.CoreCompileInputs.cache
+D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.sourcelink.json
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.dll
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\refint\TextAdventure.dll
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.pdb
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.genruntimeconfig.cache
 D:\Coding\Git\TextAdventure\obj\Debug\net8.0\ref\TextAdventure.dll
-D:\Coding\Git\TextAdventure\obj\Debug\net8.0\TextAdventure.sourcelink.json
