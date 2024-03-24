@@ -6,7 +6,7 @@ This project is the making of a text adventure, but it isn't really a text adven
 
 The reason I made this is because I wanted to practice and refresh myself on C#, which I studied once long ago but I've almost forgotten everything. (Indeed, I had to relearn a lot while doing this.)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VeSHuxLJIzw)
 
 # Development Environment
 
